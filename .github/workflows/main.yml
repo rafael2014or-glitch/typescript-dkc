@@ -1,4 +1,4 @@
-name: deploy ZetaByte
+name: deploy AnkGrom
 
 on:
   push:
