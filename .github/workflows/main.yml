@@ -1,4 +1,4 @@
-name: deploy AnkGrom
+name: deploy FeedTheCat
 
 on:
   push:
