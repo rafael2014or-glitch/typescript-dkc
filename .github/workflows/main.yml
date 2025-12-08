@@ -1,4 +1,4 @@
-name: deploy TongView
+name: deploy MadsFeed
 
 on:
   push:
